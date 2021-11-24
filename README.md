@@ -4,7 +4,7 @@ A chrome extension that adds a few simple keyboard shortcuts for closing tabs. T
 
 ## Installation
 
-Found on the [Chrome Extension Store]().
+Found on the [Chrome Extension Store](https://chrome.google.com/webstore/detail/chrome-tab-manager/jplifmiiofehgmofdclgipkeendikbnj?hl=en&authuser=0).
 
 ## Default Commands
 
